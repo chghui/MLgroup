@@ -15,11 +15,11 @@
 | 随机森林                               | ch    |
 | GBDT                                   | ch    |
 | 逻辑回归                               | gjs   |
-| SVM                                    | gjs |
 | SVM + 逻辑回归 + PCA                       | gjs   |
 | XGBoost                                | zhx |
 | AdaBoost                               | zhx   |
 | BLRNN                               | zhx   |
+| SVM                                    | wb |
 | Stacking 堆叠                        | wb    |
 | 逻辑回归                              | hyx   |
 | XGBoost + SMOTE + GridSearchCV         | hyx   |
